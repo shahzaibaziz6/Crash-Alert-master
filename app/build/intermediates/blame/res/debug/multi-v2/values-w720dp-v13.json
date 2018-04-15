@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/pc/Android/Crash-Alert-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/5866bf520704bb075860b15f931bbfe0/res/values-w720dp-v13/values-w720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

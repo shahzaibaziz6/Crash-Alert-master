@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.support:design:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/a3a78e7f0e2bf2332f1de39f4a4347a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/5866bf520704bb075860b15f931bbfe0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/8d3db054a82747fba6bfd7e178bcc93c/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/c9fb80f474a314c676b38bf10a95b077/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/472b8e6ed8b8d2e54c6cb5dbbe71c320/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1e0239b3daa4d684cf4fd1fa072c5477/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/3cf386fc826852c8898a6cd8b5357eb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/733f5de921412884c73dfc5412f3b322/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/5772ce9cb79a10ed4fff629dee2942be/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/54a74c6d1192ff25172f9f1b290f2a3c/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:9:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:22:5-80
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:11:22-69
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:12:5-98
+	android:required
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:12:72-95
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:12:19-71
+application
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:13:5-51:19
+MERGED from [com.android.support:design:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/a3a78e7f0e2bf2332f1de39f4a4347a5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/a3a78e7f0e2bf2332f1de39f4a4347a5/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/5866bf520704bb075860b15f931bbfe0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/5866bf520704bb075860b15f931bbfe0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/8d3db054a82747fba6bfd7e178bcc93c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/8d3db054a82747fba6bfd7e178bcc93c/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/c9fb80f474a314c676b38bf10a95b077/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/c9fb80f474a314c676b38bf10a95b077/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/472b8e6ed8b8d2e54c6cb5dbbe71c320/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/472b8e6ed8b8d2e54c6cb5dbbe71c320/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1e0239b3daa4d684cf4fd1fa072c5477/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1e0239b3daa4d684cf4fd1fa072c5477/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/5772ce9cb79a10ed4fff629dee2942be/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/5772ce9cb79a10ed4fff629dee2942be/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/54a74c6d1192ff25172f9f1b290f2a3c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/54a74c6d1192ff25172f9f1b290f2a3c/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:16:9-37
+	android:icon
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.anask.myapplication.MainActivity
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:21:13-41
+	android:theme
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.example.anask.myapplication.CheckCertainty
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:29:9-36:20
+	android:label
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:30:13-35
+	android:theme
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:31:13-61
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:29:19-49
+intent-filter#action:name:com.example.anask.myapplication.CheckCertainty+category:name:android.intent.category.DEFAULT
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:32:13-35:29
+action#com.example.anask.myapplication.CheckCertainty
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:33:17-89
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:33:25-86
+category#android.intent.category.DEFAULT
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:34:27-73
+activity#com.example.anask.myapplication.About
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:37:9-44:20
+	android:label
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:38:13-42
+	android:theme
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:39:13-56
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:37:19-40
+intent-filter#action:name:com.example.anask.myapplication.About+category:name:android.intent.category.DEFAULT
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:40:13-43:29
+action#com.example.anask.myapplication.About
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:41:17-80
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:41:25-77
+service#com.example.anask.myapplication.ShakeService
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:45:9-102
+	android:enabled
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:45:18-40
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:45:41-100
+meta-data#com.google.android.gms.version
+ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:48:9-50:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/5772ce9cb79a10ed4fff629dee2942be/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/5772ce9cb79a10ed4fff629dee2942be/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:50:13-66
+	android:name
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:49:13-58
+uses-sdk
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/a3a78e7f0e2bf2332f1de39f4a4347a5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/design-23.2.1.aar/a3a78e7f0e2bf2332f1de39f4a4347a5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/5866bf520704bb075860b15f931bbfe0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/5866bf520704bb075860b15f931bbfe0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/8d3db054a82747fba6bfd7e178bcc93c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-appindexing-8.1.0.aar/8d3db054a82747fba6bfd7e178bcc93c/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/c9fb80f474a314c676b38bf10a95b077/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-location-8.1.0.aar/c9fb80f474a314c676b38bf10a95b077/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/472b8e6ed8b8d2e54c6cb5dbbe71c320/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.2.1.aar/472b8e6ed8b8d2e54c6cb5dbbe71c320/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1e0239b3daa4d684cf4fd1fa072c5477/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.2.1.aar/1e0239b3daa4d684cf4fd1fa072c5477/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/3cf386fc826852c8898a6cd8b5357eb7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.2.1.aar/3cf386fc826852c8898a6cd8b5357eb7/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:27:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/733f5de921412884c73dfc5412f3b322/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-base-8.1.0.aar/733f5de921412884c73dfc5412f3b322/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/5772ce9cb79a10ed4fff629dee2942be/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-8.1.0.aar/5772ce9cb79a10ed4fff629dee2942be/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/54a74c6d1192ff25172f9f1b290f2a3c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/support-v4-23.2.1.aar/54a74c6d1192ff25172f9f1b290f2a3c/AndroidManifest.xml:20:5-43
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] /home/pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.2.1.aar/5866bf520704bb075860b15f931bbfe0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+		ADDED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:23:5-25:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:24:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.1.0] /home/pc/.gradle/caches/transforms-1/files-1.1/play-services-maps-8.1.0.aar/aee32f9e4d3151c7d929b7df83f0e5e8/AndroidManifest.xml:25:8-31
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/pc/Android/Crash-Alert-master/app/src/main/AndroidManifest.xml:2:1-54:12 reason: com.google.android.gms.maps requested WRITE_EXTERNAL_STORAGE
